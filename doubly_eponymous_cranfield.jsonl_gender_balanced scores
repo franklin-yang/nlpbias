@@ -1,0 +1,175 @@
+m,f
+ 
+
+0.007532354330139254,0.0003163121471945973,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom of Great Britain and Ireland', 'name': 'Carmen Cayley'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Scott Hamilton'}] 
+
+
+0.00032751021435162395,3.787586798398915e-05,[{'gender': 'male', 'ethnicity': 'Ashkenazi Jews', 'nationality': 'Hungary', 'name': 'Marvin Erdos'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Hungary', 'name': 'Maegan Gallai'}] 
+
+
+2.8140494670186914e-05,0.0008178710264742497,[{'gender': 'female', 'ethnicity': 'Ashkenazi Jews', 'nationality': 'Hungary', 'name': 'Stephanie Erdos'}, {'gender': 'male', 'ethnicity': 'Jewish people', 'nationality': 'Germany', 'name': 'Carl Rado'}] 
+9.889117595485247e-05,0.0010411935941932772,[{'gender': 'male', 'ethnicity': 'Ashkenazi Jews', 'nationality': 'Hungary', 'name': 'Louis Erdos'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Celia Harold Stone'}] 
+
+0.00016784359796478585,0.00310035779709987,[{'gender': 'female', 'ethnicity': 'Ashkenazi Jews', 'nationality': 'Hungary', 'name': 'Lois Erdos'}, {'gender': 'male', 'ethnicity': 'Hungarians', 'nationality': 'Hungary', 'name': 'Leroy Szemeredi'}] 
+0.002785467277486041,0.0018929643669687462,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Dutch Republic', 'name': 'Gilbert Huygens'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Beverly Fresnel'}] 
+0.0025291505881305304,3.740924795916098e-06,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Russia', 'name': 'Alton Mikheyev'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Palma Smirnov'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Mike Wolfenstein'}] 
+
+
+
+0.030862822233990606,0.0029836037854730274,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'British India', 'name': 'Edward Ramanujan'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Norway', 'name': 'Magda Nagell'}] 
+0.000751643212021198,0.00024986749740706993,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Carissa Sommerfeld'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Jose Kossel'}] 
+
+0.007150526836497099,9.027498458358592e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Joan Young'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Carl Laplace'}] 
+
+
+
+
+
+0.0001367554943667608,1.755699654215802e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Suzanne H. Autler'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Ron H. Townes'}] 
+
+
+6.883850502027508e-06,2.0842954716064372e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Henry Harold Richard Barton'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Angelina W. McCombie'}] 
+0.0013421990484350907,0.00020616961767648933,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Jo B. Baylis'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Roberto E. D. Hillman'}] 
+2.544420253445679e-06,8.619080894120086e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Susan Bardeen'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Greg Cooper'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Harry Schrieffer'}] 
+
+0.057221233259955595,5.315571419946433e-08,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Brittany Alfred Biefeld'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Damian Townsend Brown'}] 
+0.00017594849321084049,1.2852012411708385e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Harry Biot'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Joanna Savart'}] 
+3.451421309759886e-05,0.0003469838442097417,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Switzerland', 'name': 'Kelli Bischler'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Eric Napieralski'}] 
+0.0005235621727062346,0.0004719278341525711,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Irene D. Blandford'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Margarito L. Znajek'}] 
+
+4.099060990263504e-05,4.5637277773938735e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Carole Borel'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Italy', 'name': 'Jesus Paolo Cantelli'}] 
+0.00011022867871488444,5.844858479718384e-06,[{'gender': 'male', 'ethnicity': 'Jewish people', 'nationality': 'German Reich', 'name': 'Jerome Born'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'German Empire', 'name': 'Dorothea Haber'}] 
+1.1274943044477111e-05,0.00019779953640147063,[{'gender': 'female', 'ethnicity': 'Jewish people', 'nationality': 'German Reich', 'name': 'Gwen Born'}, {'gender': 'male', 'ethnicity': 'Jewish people', 'nationality': 'United States of America', 'name': 'Loren Oppenheimer'}] 
+0.0020271601607023764,0.0025540390067745234,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'British India', 'name': 'Alex Nath Bose'}, {'gender': 'female', 'ethnicity': 'Jewish people', 'nationality': 'German Empire', 'name': 'Alta Einstein'}] 
+0.004422309808823122,5.344774576008427e-08,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Lorraine H. Brans'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Robert H. Dicke'}] 
+0.005445957365021213,1.1155558310961879e-07,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Kesha H. Brans'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Michael H. Dicke'}] 
+0.0005178651642201957,0.00042384167470105625,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Richard Burgi'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Heather David Dunitz'}] 
+
+
+
+
+
+
+0.0020589306516730875,0.0013997109964402107,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Michael James Corey'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Denise Un Kim'}] 
+
+0.0009922427273786631,0.0037351973898737023,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Ralph James Corey'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Cynthia Arthur Edwin Winter'}] 
+
+
+0.0016347868990891094,8.531579422907436e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Shelton J. Damerau'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Soviet Union', 'name': 'Cheryl Levenshtein'}] 
+1.4407862150883553e-05,0.00030221815730614975,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Mary L. Davies'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Franklin W. Bouldin'}] 
+0.003350572772057723,0.0035617410385843725,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Kingdom of the Netherlands', 'name': 'Evan Johannes de Haas'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Toni M. van Alphen'}] 
+2.056533286329506e-05,0.00015717838121940346,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Brooke Paul Hermann Diels'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Harold Alder'}] 
+
+3.367003311231558e-05,2.341530580738368e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Robin Louis Dulong'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Ronnie Therese Petit'}] 
+
+1.386868807943902e-05,0.00010068617288832875,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Carol D. T. A. Elliott'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Frank Halberstam'}] 
+
+0.0002575990037885909,0.00033154709020484366,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Steven T. Farnsworth'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Ola L. Hirsch'}] 
+
+
+
+
+
+
+0.0021724387687105584,0.0003968829832587758,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Ruth Franz'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Soviet Union', 'name': 'Kenneth V. Keldysh'}] 
+
+4.3085035170944504e-05,9.919980777649348e-06,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Katherine Friedmann'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Belgium', 'name': 'Dianna Lemaitre'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Marie P. Robertson'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Pete Geoffrey Walker'}] 
+0.004808663888970284,0.00011458242666335143,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Francisco Ernst Moritz Fritsch'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Farah Paul Buttenberg'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'John G. Wiechell'}] 
+4.228375826121083e-05,2.039359472921835e-05,[{'gender': 'female', 'ethnicity': 'Germans', 'nationality': 'Confederation of the Rhine', 'name': 'Marie Friedrich Gauss'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Terry Ossian Bonnet'}] 
+0.00021993540554357885,0.00013228038091374708,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'George Geib'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Shirley S. Spevack'}] 
+0.0021070487004514137,0.0010879081389045585,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Charles Willard Gibbs'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Martha G. Donnan'}] 
+0.0002807587415822524,7.636996840630432e-07,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Yvonne Willard Gibbs'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'German Confederation', 'name': 'Charles von Helmholtz'}] 
+0.00021809229599790097,1.0490663258890921e-06,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Beverly Willard Gibbs'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'German Confederation', 'name': 'Samuel von Helmholtz'}] 
+
+
+
+0.00013205958056766625,0.018999259809216167,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Diana Hadamard'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'John Rademacher'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Shanna L. Walsh'}] 
+0.0005045691748208492,0.00023199118466835935,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Kevin F. Harrod'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Canada', 'name': 'Ina G. Johnson'}] 
+0.0022195832429375397,0.048204408932024524,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Carl Hasse'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Erin Minkowski'}] 
+
+
+9.639012583911944e-05,0.0013937466059721223,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Mary Edmund Hick'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Howard Hyman'}] 
+
+
+
+
+
+0.00011564847476398571,4.816860905357304e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Eugene M. Jarque'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Dorothy K. Bera'}] 
+0.0003081412841273307,6.779217183613873e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Malcolm Karush'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Patricia W. Kuhn'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Andy W. Tucker'}] 
+
+
+
+
+
+
+0.00012889213495730984,8.673072292342783e-06,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Debbie de Laplace'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Myrl Runge'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Isaiah Lenz'}] 
+8.521884802153205e-06,7.735984838918378e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Austria', 'name': 'Sara Lense'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Austria', 'name': 'Mark Thirring'}] 
+
+
+0.005412005774286592,3.7891932816666826e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Ernest E. Littlewood'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Heather Cyril Offord'}] 
+1.0318764269881799e-05,0.0037160876900063605,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Maura E. Littlewood'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'James Cyril Offord'}] 
+
+
+
+1.315009585065973e-05,0.00025755082041539203,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Elizabeth B. Needleman'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Alfred D. Wunsch'}] 
+
+4.20573809061366e-05,2.675460709518437e-06,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Joshua P. Ostriker'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Canada', 'name': 'Linda Peebles'}] 
+
+
+6.468896376543029e-06,0.00029823838265511976,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Debra Oswald Pearson'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Dustin Saint George Anson'}] 
+7.519968753059959e-05,2.100027306757659e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Racheal Pisot'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'India', 'name': 'Byron Vijayaraghavan'}] 
+3.313044809709959e-10,0.022802482929974815,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Australia', 'name': 'Beatrice B. Potts'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'John Ashkin'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Kelly Teller'}] 
+0.0005659477390903594,0.0007704825615418411,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom of Great Britain and Ireland', 'name': 'Scott Henry Poynting'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Sheila P. Robertson'}] 
+0.0002468748553765073,0.0001840590833955855,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Mary A. Rescorla'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Robert R. Wagner'}] 
+
+
+
+
+1.0962071732772965e-05,0.0002490672645887662,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Shirley K. Sachs'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Travis M. Wolfe'}] 
+0.003964441588474671,0.0008762522390782753,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Dennis Sapir'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Pearl Whorf'}] 
+
+0.00022024751031348252,0.004467260353461321,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Oscar Senftleben'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Juana J. M. Beenakker'}] 
+
+
+
+1.1130106865636739e-05,0.19979353951682116,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Kingdom of the Netherlands', 'name': 'Sarah Johannes de Haas'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Russian Empire', 'name': 'William Vasiljevich Shubnikov'}] 
+4.1663079105796834e-05,2.459163101422479e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Jessica F. Smith'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Paul S. Waterman'}] 
+
+
+
+
+0.03211745689518643,0.01871256161458426,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom of Great Britain and Ireland', 'name': 'Aubrey Guthrie Tait'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Virginia H. Bryan'}] 
+
+
+0.00016425506714601808,0.00031613905864412396,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Melissa Hilleth Thomas'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Italy', 'name': 'David Fermi'}] 
+
+3.124077046168159e-06,3.0695462422300213e-08,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Graham Vogel'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Caroline Scott Fulcher'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Thomas Tammann'}] 
+
+1.8856396849130242e-05,0.06431388255714739,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Japan', 'name': 'Eddie Wadati'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Margaret Benioff'}] 
+
+
+7.352360827585305e-06,0.0030601788853837596,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Madeline Wess'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Italy', 'name': 'Alexander Zumino'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Connie Witten'}] 
+0.002150873933583747,7.130597079297945e-06,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'James Wess'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Italy', 'name': 'Elizabeth Zumino'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Christopher Witten'}] 
+0.001558968030304491,0.14837934826071,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Virginia Widrow'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Ronald Hoff'}] 
+3.7916555458162713e-06,6.15507344571714e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Meghan Wigner'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Joe Seitz'}] 
+4.20499996566723e-05,3.931596738741773e-07,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Jason Burns Woodward'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Estella Hoffmann'}] 
+
+2.789262177099691e-06,0.09362257685696357,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Peggy H. Simpson'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Christopher Yule'}] 
+
+6.36356117222733e-05,4.175645642668023e-06,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Sheron Herbig'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Mexico', 'name': 'Noble Haro'}] 
+0.0024220874784557527,0.001969404754762749,[{'gender': 'female', 'ethnicity': 'Germans', 'nationality': 'Germany', 'name': 'Nina Stern'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Tim Gerlach'}] 
+
+
+
+
+0.004609101685258571,0.003433907372215077,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Valerie Markov'}, {'gender': 'male', 'ethnicity': 'Germans', 'nationality': 'Confederation of the Rhine', 'name': 'Kevin Friedrich Gauss'}] 
+
+0.00016318093421557536,2.301500351791555e-05,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'France', 'name': 'Rhonda Savart'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Wallace Biot'}] 
+0.0260661992015061,0.00012818124866547677,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Walter Sachs'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United Kingdom', 'name': 'Brenda Tay'}] 
+1.699999058830964e-07,8.800761625079713e-09,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Kingdom of Prussia', 'name': 'Anh Gustav Jacob Jacobi'}, {'gender': 'male', 'ethnicity': 'Irish people', 'nationality': 'United Kingdom of Great Britain and Ireland', 'name': 'Paul Rowan Hamilton'}] 
+
+
+0.0003784596063536697,9.266426082992587e-05,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Steven Homer Lane'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Switzerland', 'name': 'Patricia Emden'}] 
+2.324366513464467e-05,0.00045684595772218486,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Wayne Neng Shun Kwong'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Austria', 'name': 'Donna Redlich'}] 
+1.6396656299441175e-05,0.0003261034121279113,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Roland Neng Shun Kwong'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Austria', 'name': 'Deborah Redlich'}] 
+5.699432795020802e-06,0.0002618211755673107,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Robert Levin'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Lynn Cook'}] 
