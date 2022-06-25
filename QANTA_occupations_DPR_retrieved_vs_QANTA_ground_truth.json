@@ -1,0 +1,1 @@
+[{"occupation": "saint", "retrieved": {"unknown": 56, "male": 37, "female": 7, "mostly_male": 0, "mostly_female": 0}, "ground_truth": {"m": 1, "f": 2}}, {"occupation": "musician", "retrieved": {"male": 71, "unknown": 27, "andy": 2, "mostly_male": 0, "female": 0, "mostly_female": 0}, "ground_truth": {"m": 7, "f": 2}}]

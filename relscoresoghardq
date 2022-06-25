@@ -1,0 +1,6 @@
+m,f
+ 
+1.7662689685821533,4.096500396728516,[{'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'South Korea', 'name': 'Kyongae Chang'}, {'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Norway', 'name': 'Sjur Refsdal'}] 
+-5.472260475158691,1.384451150894165,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Fritz Goos'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Hilda Hanchen'}] 
+3.2499048709869385,6.075891017913818,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'Germany', 'name': 'Heinz Hunsdiecker'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'unknown', 'name': 'Clare Hunsdiecker'}] 
+1.062040090560913,-0.7890021800994873,[{'gender': 'male', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Alfred Hershey'}, {'gender': 'female', 'ethnicity': 'unknown', 'nationality': 'United States of America', 'name': 'Martha Chase'}] 
